@@ -8,14 +8,6 @@ Activation Function Used: Softmax
 Optimizer: Adam
 Further Improvements might be added in the future.
 
-Frameworks Used:
-
-![Untitled design (10)](https://github.com/ML-Tigers/Skin-Decease-Detection-Using-Ham10000-Dataset/assets/34673269/836eaa30-945c-4584-bc7b-652b83ff3ba8)
-![Untitled design (11)](https://github.com/ML-Tigers/Skin-Decease-Detection-Using-Ham10000-Dataset/assets/34673269/dc1cf271-d611-413b-a0a7-6100558aa2be)
-![Untitled design (12)](https://github.com/ML-Tigers/Skin-Decease-Detection-Using-Ham10000-Dataset/assets/34673269/a6ce34b2-3d4b-49b6-b52a-1c5de3b35a39)
-![Untitled design (13)](https://github.com/ML-Tigers/Skin-Decease-Detection-Using-Ham10000-Dataset/assets/34673269/316806c5-b04c-4caf-a0a7-0ddde80c6259)
-![Untitled design (14)](https://github.com/ML-Tigers/Skin-Decease-Detection-Using-Ham10000-Dataset/assets/34673269/e6034a03-8f11-47b3-b716-8afec61dd0f1)
-
 Thanks!
 # References:
 Dataset used: https://arxiv.org/abs/1803.10417
