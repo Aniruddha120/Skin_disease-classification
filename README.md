@@ -1,6 +1,6 @@
 # Skin_decease-classification
 
-## introduction
+## Introduction
 The HAM1000 dataset contains a diverse collection of skin lesion images, each labeled with the corresponding skin disease diagnosis. The dataset consists of various skin disease types, making it a valuable resource for building predictive models.
 
 ## Project Objective
