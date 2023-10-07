@@ -1,0 +1,8 @@
+matplotlib.pyplot
+pandas
+seaborn
+glob
+PIL
+numpy
+os
+autokeras
