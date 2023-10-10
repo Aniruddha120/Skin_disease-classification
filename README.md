@@ -1,10 +1,10 @@
 # Skin_decease-classification
 
 ## Introduction
-The HAM1000 dataset contains a diverse collection of skin lesion images, each labeled with the corresponding skin disease diagnosis. The dataset consists of various skin disease types, making it a valuable resource for building predictive models.
+The HAM10000 dataset contains a diverse collection of skin lesion images, each labeled with the corresponding skin disease diagnosis. The dataset consists of various skin disease types, making it a valuable resource for building predictive models.
 
 ## Project Objective
-The primary objective of this project is to create a deep-learning model capable of accurately classifying skin disease types based on images. By training the model on a subset of the HAM1000 dataset, we aim to achieve a high level of accuracy in predicting skin disease types from new images.
+The primary objective of this project is to create a deep-learning model capable of accurately classifying skin disease types based on images. By training the model on a subset of the HAM10000 dataset, we aim to achieve a high level of accuracy in predicting skin disease types from new images.
 
 ## Project Details
 Total Images for Training: 1400
